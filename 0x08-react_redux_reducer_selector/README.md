@@ -2,8 +2,7 @@
 
 `Front-end` `JavaScript` `ES6` `React`
 
-
-[redux-meme](../images/redux-meme.jpeg)
+![redux-meme](../images/redux-meme.jpeg)
 
 ## Resources
 
